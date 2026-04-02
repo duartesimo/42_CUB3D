@@ -1,4 +1,4 @@
-# cub3d
+# 42_CUB3D
 
 A 42 project focused on building a simple 3D maze renderer with **raycasting**.  
 The program reads a `.cub` configuration file, loads textures and colors, parses the map, and displays a first-person view using the **MiniLibX**.
